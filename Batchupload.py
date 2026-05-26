@@ -13,7 +13,7 @@ import threading
 from concurrent.futures import ThreadPoolExecutor
 
 # --- CONFIGURATION ---
-API_TOKEN = '8847226762:AAHTRkQpHyUeExS4smh8U07tZZgrYQDY6aU'
+API_TOKEN = '8847309754:AAGrvR-Gi6iL579GaBmJOZe3rJNqL20JIwQ'
 ADMIN_ID = 5587310035  # Replace with your actual Telegram User ID
 bot = telebot.TeleBot(API_TOKEN, threaded=True, num_threads=10)
 
